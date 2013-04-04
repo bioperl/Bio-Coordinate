@@ -1,6 +1,8 @@
 package Bio::Coordinate::ResultI;
+use utf8;
 use strict;
-use base qw(Bio::LocationI);
+use warnings;
+use parent qw(Bio::LocationI);
 
 # ABSTRACT: Interface to identify coordinate mapper results.
 # AUTHOR:   Heikki Lehvaslaiho <heikki@bioperl.org>

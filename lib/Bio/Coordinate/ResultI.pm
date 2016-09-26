@@ -1,4 +1,5 @@
 package Bio::Coordinate::ResultI;
+
 use utf8;
 use strict;
 use warnings;

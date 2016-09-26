@@ -1,4 +1,5 @@
 package Bio::Coordinate::Result::Gap;
+
 use utf8;
 use strict;
 use warnings;

@@ -1,4 +1,5 @@
 package Bio::Coordinate::ExtrapolatingPair;
+
 use utf8;
 use strict;
 use warnings;

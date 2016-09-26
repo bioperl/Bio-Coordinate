@@ -1,4 +1,5 @@
 package Bio::Coordinate::Pair;
+
 use utf8;
 use strict;
 use warnings;

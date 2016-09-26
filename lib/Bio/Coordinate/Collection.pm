@@ -1,4 +1,5 @@
 package Bio::Coordinate::Collection;
+
 use utf8;
 use strict;
 use warnings;

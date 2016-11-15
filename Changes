@@ -2,6 +2,8 @@ Summary of important user-visible changes for Bio-Coordinate
 ------------------------------------------------------------
 
 {{$NEXT}}
+
+1.007000  2016-11-14 19:31:51-06:00 America/Chicago
   * First release after split from bioperl-live.
   * Bio::Coordinate::Collection
       - allow passing an array reference to mappers().

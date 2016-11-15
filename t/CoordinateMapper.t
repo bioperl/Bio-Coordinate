@@ -514,7 +514,6 @@ my $s2 = Bio::LocatableSeq->new(-id => 'BBB',
 $a = Bio::SimpleAlign->new();
 $a->add_seq($s1);
 $a->add_seq($s2);
-#use Data::Dumper;
 
 ok my $uti = Bio::Coordinate::Utils->new;
 $mapper = $uti->from_align($a);

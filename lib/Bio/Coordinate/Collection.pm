@@ -178,7 +178,6 @@ sub mapper_count{
 
 sub swap {
    my ($self) = @_;
-   use Data::Dumper;
 
    $self->sort unless $self->_is_sorted;
    map {$_->swap;} @{$self->{'_mappers'}};

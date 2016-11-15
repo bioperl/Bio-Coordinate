@@ -2,7 +2,6 @@
 
 use strict;
 use warnings;
-use Data::Dumper;
 
 BEGIN {
   use Bio::Root::Test;

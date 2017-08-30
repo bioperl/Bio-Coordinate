@@ -94,7 +94,7 @@ sub strict {
  Function: Map the location from the input coordinate system
            to a new value in the output coordinate system.
 
-           In extrapolating coodinate system there is no location zero.
+           In extrapolating coordinate system there is no location zero.
            Locations are...
  Example :
  Returns : new location in the output coordinate system or undef

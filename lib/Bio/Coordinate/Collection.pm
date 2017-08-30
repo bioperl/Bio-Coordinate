@@ -346,7 +346,7 @@ sub sort{
 
  Title   : _is_sorted
  Usage   : $newpos = $obj->_is_sorted;
- Function: toggle for whether the (internal) coodinate mapper data are sorted
+ Function: toggle for whether the (internal) coordinate mapper data are sorted
  Example :
  Returns : boolean
  Args    : boolean

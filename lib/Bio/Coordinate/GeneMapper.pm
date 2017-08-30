@@ -45,7 +45,7 @@ use parent qw(Bio::Root::Root Bio::Coordinate::MapperI);
 =head1 DESCRIPTION
 
 Bio::Coordinate::GeneMapper is a module for simplifying the mappings
-of coodinate locations between various gene related locations in human
+of coordinate locations between various gene related locations in human
 genetics. It also adds a special human genetics twist to coordinate
 systems by making it possible to disable the use of zero
 (0). Locations before position one start from -1. See method
